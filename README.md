@@ -17,12 +17,12 @@ Başlangıçta yalnızca pozitif/negatif duygu sınıflandırması hedeflenmiş,
 * numpy,
 * pandas,
 * matplotlib,
-* seaborn
-* nltk
-* WordNetLemmatizer
-*  stopwords
-*  wordcloud
-*  scikit-learn (CountVectorizer, LDA)
+* seaborn,
+* nltk,
+* WordNetLemmatizer,
+*  stopwords,
+*  wordcloud,
+*  scikit-learn (CountVectorizer, LDA),
 *  scipy (tt-test)
 
 ## 🔍 Analiz Adımları
